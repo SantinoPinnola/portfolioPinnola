@@ -26,9 +26,7 @@ export default function RootLayout({
       <body className={`${font.variable}`}>
         <Header />
         {children}
-        <footer className="text-center p-6 text-gray-400">
-          <p> {`Copyright © ${new Date().getFullYear()} Nahuel Guerra`}</p>
-        </footer>
+        <footer className="text-center p-6 text-gray-400"></footer>
       </body>
     </html>
   );

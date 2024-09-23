@@ -1,22 +1,22 @@
 {
   "projects": [
     {
-      "title": "API de comercio electrónico",
-      "description": "API RESTful escalable para una plataforma de comercio electrónico",
-      "technologies": ["Node.js", "Express", "MongoDB"],
-      "link": "https://github.com/lautiok/comercio-electrnico-api"
+      "title": "E-commerce",
+      "description": "Final project of the Coderhouse bootcamp where I created the back-end of an E-commerce.",
+      "technologies": ["Node.js", "Express", "MongoDB", "Typescript"],
+      "link": "https://github.com/SantinoPinnola/proyectFinalBackend"
     },
     {
-      "title": "Microservicios de Logística",
-      "description": "Sistema de microservicios para gestión de logística y envíos",
-      "technologies": ["Java", "Spring Boot", "Kafka", "PostgreSQL"],
-      "link": "https://github.com/lautiok/logistica-microservices"
+      "title": "Countries App",
+      "description": "Front-end and Back-end of an application that provides information about countries, including border data, historical population charts, and flags. ",
+      "technologies": ["Node.js", "Express", "Next.js", "React"],
+      "link": "https://github.com/SantinoPinnola/countriesApp"
     },
     {
-      "title": "Backend de Red Social",
-      "description": "Backend de un sitio web para la red social de la universidad",
-      "technologies": ["Python", "Django", "Redis", "AWS"],
-      "link": "https://github.com/lautiok/red-social-backend"
+      "title": "WSS Chat",
+      "description": "Express server using Websockets with a Channel Chat.",
+      "technologies": ["Express", "Websockets", "Node.js"],
+      "link": "https://github.com/SantinoPinnola/WSSchat"
     }
   ]
 }

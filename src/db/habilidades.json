@@ -4,31 +4,31 @@
       "title": "Node.js"
     },
     {
-      "title": "Java"
+      "title": "Express"
     },
     {
-      "title": "Express"
+      "title": "React"
     },
     {
       "title": "MongoDB"
     },
     {
-      "title": "PostgreSQL"
+      "title": "Redis"
     },
     {
-      "title": "Spring Boot"
+      "title": "Docker"
     },
     {
-      "title": "Python"
-    },
-    {
-      "title": "Django"
+      "title": "Typescript"
     },
     {
       "title": "Redis"
     },
     {
       "title": "AWS"
+    },
+    {
+      "title": "C++"
     }
   ]
 }

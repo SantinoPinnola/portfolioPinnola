@@ -1,19 +1,19 @@
 {
   "header": {
-    "name": "Nahuel Guerra",
-    "profession": "Desarrollador Backend",
+    "name": "Santino Pinnola",
+    "profession": "Desarrollador Full stack",
     "social": [
       {
         "name": "Github",
-        "link": "https://github.com/lautiok"
+        "link": "https://github.com/SantinoPinnola"
       },
       {
         "name": "Linkedin",
-        "link": "https://www.linkedin.com/in/nahuel_guerra"
+        "link": "https://www.linkedin.com/in/santinopinnola/"
       },
       {
         "name": "email",
-        "link": "mailto:nahuelguerra56b@gmail.com"
+        "link": "mailto:santinopinnola9@gmail.com"
       }
     ]
   }
